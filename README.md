@@ -4,4 +4,8 @@ Created this repository to save the codes I have done in ***Geeks for Geeks** *A
 
 link to do practice : https://practice.geeksforgeeks.org/home/
 
-1. 
+I have already done many question but updating this from the day repo is created.
+
+**Strings**
+1. Remove “b” and “ac” from a given string
+2.

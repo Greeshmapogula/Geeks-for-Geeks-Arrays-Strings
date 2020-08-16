@@ -6,6 +6,6 @@ link to do practice : https://practice.geeksforgeeks.org/home/
 
 I have already done many question but updating this from the day repo is created.
 
-**Strings**
+
 1. Remove “b” and “ac” from a given string
-2.
+2. Save Ironman

@@ -1,0 +1,16 @@
+#code
+for _ in range(int(input())):
+    s=input()
+    n=len(s)
+    flag=0
+    for i in range(n):
+        substr=s[:i+1]
+        l_sub=len(substr)
+        l_cnt=s.count(substr)
+        if l_sub*l_cnt==n and l_sub!=n:
+            flag=1
+            break
+    if flag==1:
+        print("True")
+    else:
+        print("False")

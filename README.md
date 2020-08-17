@@ -9,3 +9,4 @@ I have already done many question but updating this from the day repo is created
 
 1. Remove “b” and “ac” from a given string
 2. Save Ironman
+3. Minimum distance between two numbers 

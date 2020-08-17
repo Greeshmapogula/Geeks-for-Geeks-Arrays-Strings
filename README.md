@@ -17,3 +17,4 @@ I have already done many question but updating this from the day repo is created
 8. Search Pattern
 9. Rearrange characters
 10. String formation from substring 
+11. Multiply two strings

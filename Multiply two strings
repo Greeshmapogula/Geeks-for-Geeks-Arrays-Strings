@@ -1,0 +1,4 @@
+def multiply(a,b):
+    # code here
+    # return the product string
+    return(str(int(a)*int(b)))

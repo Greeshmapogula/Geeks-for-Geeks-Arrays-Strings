@@ -1,0 +1,12 @@
+#code
+from collections import Counter
+for i in range(int(input())):
+    s=input()
+    m=0
+    p=Counter(s)
+    for j in p:
+        m=max(p[j],m)
+    if m>(len(s)+1)/2:
+        print(0)
+    else:
+        print(1)

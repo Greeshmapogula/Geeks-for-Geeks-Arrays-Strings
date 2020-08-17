@@ -13,3 +13,4 @@ I have already done many question but updating this from the day repo is created
 4. Max sum path in two arrays 
 5. Remove duplicates in small prime array
 6. Max sum in the configuration 
+7. Length of the longest substring 

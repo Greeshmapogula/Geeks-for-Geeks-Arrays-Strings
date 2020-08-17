@@ -15,3 +15,4 @@ I have already done many question but updating this from the day repo is created
 6. Max sum in the configuration 
 7. Length of the longest substring 
 8. Search Pattern
+9. Rearrange characters

@@ -1,0 +1,9 @@
+#code
+for i in range(int(input())):
+    s=input()
+    n=len(s)
+    for i in range(n):
+        if s[0:n-1-i]==s[1+i:]:
+            s1="".join(s[0:n-1-i])
+            print(len(s1))
+            break

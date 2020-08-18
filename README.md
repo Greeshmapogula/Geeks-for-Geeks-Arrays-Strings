@@ -18,3 +18,4 @@ I have already done many question but updating this from the day repo is created
 9. Rearrange characters
 10. String formation from substring 
 11. Multiply two strings
+12. Longest Prefix Suffix 

@@ -1,0 +1,9 @@
+#code
+import itertools as it
+for _ in range(int(input())):
+    k=str(input())
+    l=list(it.permutations(k))
+    l.sort()
+    for i in l:
+        print(''.join(i),end=' ')
+    print()

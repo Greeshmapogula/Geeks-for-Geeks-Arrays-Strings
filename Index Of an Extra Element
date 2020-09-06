@@ -1,0 +1,8 @@
+def findExtra(a,b,n):
+    
+    #add code here
+    l=list(set(a).difference(set(b)))
+    for x in l:
+        return a.index(x)
+
+

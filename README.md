@@ -22,4 +22,5 @@ I have already done many question but updating this from the day repo is created
 13. Distinct absolute array elements
 14. Rotate a 2D array without using extra space
 15. Permutations of a given string 
-16. Index Of an Extra Element 
+16. Index Of an Extra Element
+17. Run Length Encoding

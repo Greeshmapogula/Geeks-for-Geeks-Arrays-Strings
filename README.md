@@ -24,4 +24,4 @@ I have already done many question but updating this from the day repo is created
 15. Permutations of a given string 
 16. Index Of an Extra Element
 17. Run Length Encoding
-18. return len(str1)+len(str2)
+18. Anagram of String
